@@ -29,4 +29,5 @@ func main() {
 		panic(err)
 	}
 	fmt.Println("Successfully connected and pinged.")
+
 }
